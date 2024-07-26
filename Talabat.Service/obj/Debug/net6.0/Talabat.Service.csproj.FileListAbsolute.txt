@@ -1,0 +1,141 @@
+F:\Talabat Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+F:\Talabat Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+F:\Talabat Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+F:\Talabat Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\Talabat Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+F:\Talabat Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+F:\Talabat Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+F:\Talabat Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+F:\Talabat Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+F:\Talabat Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+F:\Talabat Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 02\atef eisa - ( APIs ) - Demo 01\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.Service\bin\Debug\net6.0\Talabat.Repository.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.Service\bin\Debug\net6.0\Talabat.Repository.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 05\atef eisa - ( APIs ) - Demo 05\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 06\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 06\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 06\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 06\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 06\Talabat.Service\bin\Debug\net6.0\Talabat.Repository.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 06\Talabat.Service\bin\Debug\net6.0\Talabat.Repository.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 06\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 06\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 06\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 06\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 06\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 06\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 06\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 06\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 06\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 06\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 06\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 07\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 07\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 07\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 07\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 07\Talabat.Service\bin\Debug\net6.0\Talabat.Repository.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 07\Talabat.Service\bin\Debug\net6.0\Talabat.Repository.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 07\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 07\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 07\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 07\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 07\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 07\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 07\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 07\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 07\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 07\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 07\atef eisa - ( APIs ) - Demo 07\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 08\atef eisa - ( APIs ) - Demo 08\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 08\atef eisa - ( APIs ) - Demo 08\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 08\atef eisa - ( APIs ) - Demo 08\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 08\atef eisa - ( APIs ) - Demo 08\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 08\atef eisa - ( APIs ) - Demo 08\Talabat.Service\bin\Debug\net6.0\Talabat.Repository.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 08\atef eisa - ( APIs ) - Demo 08\Talabat.Service\bin\Debug\net6.0\Talabat.Repository.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 08\atef eisa - ( APIs ) - Demo 08\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 08\atef eisa - ( APIs ) - Demo 08\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 08\atef eisa - ( APIs ) - Demo 08\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 08\atef eisa - ( APIs ) - Demo 08\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 08\atef eisa - ( APIs ) - Demo 08\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 08\atef eisa - ( APIs ) - Demo 08\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 08\atef eisa - ( APIs ) - Demo 08\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 08\atef eisa - ( APIs ) - Demo 08\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 08\atef eisa - ( APIs ) - Demo 08\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 08\atef eisa - ( APIs ) - Demo 08\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+F:\ROUTE\2 - BACK _ END\08 APIs\Session 08\atef eisa - ( APIs ) - Demo 08\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 08\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 08\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 08\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 08\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 08\Talabat.Service\bin\Debug\net6.0\Talabat.Repository.dll
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 08\Talabat.Service\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 08\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 08\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 08\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 08\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 08\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 08\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 08\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 08\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 08\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 08\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 08\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 09\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 09\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 09\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 09\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 09\Talabat.Service\bin\Debug\net6.0\Talabat.Repository.dll
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 09\Talabat.Service\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 09\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 09\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 09\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 09\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 09\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 09\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 09\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 09\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 09\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 09\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+C:\Users\SoftLaptop\Desktop\atef eisa - ( APIs ) - Demo 09\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+C:\Users\SoftLaptop\Desktop\Talabat.Api\atef eisa - ( APIs ) - Demo 09\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+C:\Users\SoftLaptop\Desktop\Talabat.Api\atef eisa - ( APIs ) - Demo 09\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+C:\Users\SoftLaptop\Desktop\Talabat.Api\atef eisa - ( APIs ) - Demo 09\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+C:\Users\SoftLaptop\Desktop\Talabat.Api\atef eisa - ( APIs ) - Demo 09\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\SoftLaptop\Desktop\Talabat.Api\atef eisa - ( APIs ) - Demo 09\Talabat.Service\bin\Debug\net6.0\Talabat.Repository.dll
+C:\Users\SoftLaptop\Desktop\Talabat.Api\atef eisa - ( APIs ) - Demo 09\Talabat.Service\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\SoftLaptop\Desktop\Talabat.Api\atef eisa - ( APIs ) - Demo 09\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\SoftLaptop\Desktop\Talabat.Api\atef eisa - ( APIs ) - Demo 09\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+C:\Users\SoftLaptop\Desktop\Talabat.Api\atef eisa - ( APIs ) - Demo 09\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoftLaptop\Desktop\Talabat.Api\atef eisa - ( APIs ) - Demo 09\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+C:\Users\SoftLaptop\Desktop\Talabat.Api\atef eisa - ( APIs ) - Demo 09\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+C:\Users\SoftLaptop\Desktop\Talabat.Api\atef eisa - ( APIs ) - Demo 09\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+C:\Users\SoftLaptop\Desktop\Talabat.Api\atef eisa - ( APIs ) - Demo 09\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
+C:\Users\SoftLaptop\Desktop\Talabat.Api\atef eisa - ( APIs ) - Demo 09\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+C:\Users\SoftLaptop\Desktop\Talabat.Api\atef eisa - ( APIs ) - Demo 09\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+C:\Users\SoftLaptop\Desktop\Talabat.Api\atef eisa - ( APIs ) - Demo 09\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+C:\Users\SoftLaptop\Desktop\Talabat.Api\atef eisa - ( APIs ) - Demo 09\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
